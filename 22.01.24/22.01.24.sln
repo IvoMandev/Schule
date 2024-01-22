@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.01.24", "22.01.24\22.01.24.csproj", "{027BD60D-7D9A-4417-973E-DB3CEB63AB78}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nz", "nz", "{AA13C957-D14D-44B8-AD11-87C18367914A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha1", "Zadacha1\Zadacha1.csproj", "{AA97E92A-D130-4738-8E01-C5EB49245D75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{027BD60D-7D9A-4417-973E-DB3CEB63AB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{027BD60D-7D9A-4417-973E-DB3CEB63AB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{027BD60D-7D9A-4417-973E-DB3CEB63AB78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA97E92A-D130-4738-8E01-C5EB49245D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA97E92A-D130-4738-8E01-C5EB49245D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA97E92A-D130-4738-8E01-C5EB49245D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA97E92A-D130-4738-8E01-C5EB49245D75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AA97E92A-D130-4738-8E01-C5EB49245D75} = {AA13C957-D14D-44B8-AD11-87C18367914A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5124C133-9B6B-4713-A011-BDDE6DA5FD63}

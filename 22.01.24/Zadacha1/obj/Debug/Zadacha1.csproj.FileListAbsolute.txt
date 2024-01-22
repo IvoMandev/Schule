@@ -1,0 +1,6 @@
+D:\11v\newwww\22.01.24\Zadacha1\bin\Debug\Zadacha1.exe.config
+D:\11v\newwww\22.01.24\Zadacha1\bin\Debug\Zadacha1.exe
+D:\11v\newwww\22.01.24\Zadacha1\bin\Debug\Zadacha1.pdb
+D:\11v\newwww\22.01.24\Zadacha1\obj\Debug\Zadacha1.csproj.CoreCompileInputs.cache
+D:\11v\newwww\22.01.24\Zadacha1\obj\Debug\Zadacha1.exe
+D:\11v\newwww\22.01.24\Zadacha1\obj\Debug\Zadacha1.pdb

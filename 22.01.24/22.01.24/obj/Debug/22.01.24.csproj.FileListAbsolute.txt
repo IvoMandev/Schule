@@ -5,3 +5,10 @@ D:\11v\22.01.24\22.01.24\obj\Debug\22.01.24.csproj.AssemblyReference.cache
 D:\11v\22.01.24\22.01.24\obj\Debug\22.01.24.csproj.CoreCompileInputs.cache
 D:\11v\22.01.24\22.01.24\obj\Debug\22.01.24.exe
 D:\11v\22.01.24\22.01.24\obj\Debug\22.01.24.pdb
+D:\11v\newwww\22.01.24\22.01.24\obj\Debug\22.01.24.csproj.AssemblyReference.cache
+D:\11v\newwww\22.01.24\22.01.24\obj\Debug\22.01.24.csproj.CoreCompileInputs.cache
+D:\11v\newwww\22.01.24\22.01.24\obj\Debug\22.01.24.exe
+D:\11v\newwww\22.01.24\22.01.24\obj\Debug\22.01.24.pdb
+D:\11v\newwww\22.01.24\22.01.24\bin\Debug\22.01.24.exe.config
+D:\11v\newwww\22.01.24\22.01.24\bin\Debug\22.01.24.exe
+D:\11v\newwww\22.01.24\22.01.24\bin\Debug\22.01.24.pdb

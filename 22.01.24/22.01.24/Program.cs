@@ -97,6 +97,8 @@ namespace _22._01._24
             }
             Console.WriteLine("");
             Console.WriteLine($"Sum: {sum}");
+
+            
         }
     }
 }
