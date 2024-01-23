@@ -1,0 +1,7 @@
+D:\11v\23.01.24\23.01.24\23.01.24\bin\Debug\23.01.24.exe.config
+D:\11v\23.01.24\23.01.24\23.01.24\bin\Debug\23.01.24.exe
+D:\11v\23.01.24\23.01.24\23.01.24\bin\Debug\23.01.24.pdb
+D:\11v\23.01.24\23.01.24\23.01.24\obj\Debug\23.01.24.csproj.AssemblyReference.cache
+D:\11v\23.01.24\23.01.24\23.01.24\obj\Debug\23.01.24.csproj.CoreCompileInputs.cache
+D:\11v\23.01.24\23.01.24\23.01.24\obj\Debug\23.01.24.exe
+D:\11v\23.01.24\23.01.24\23.01.24\obj\Debug\23.01.24.pdb
