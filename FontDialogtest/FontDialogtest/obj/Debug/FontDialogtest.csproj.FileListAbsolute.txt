@@ -1,0 +1,10 @@
+D:\11v\24.01.24\FontDialogtest\FontDialogtest\bin\Debug\FontDialogtest.exe.config
+D:\11v\24.01.24\FontDialogtest\FontDialogtest\bin\Debug\FontDialogtest.exe
+D:\11v\24.01.24\FontDialogtest\FontDialogtest\bin\Debug\FontDialogtest.pdb
+D:\11v\24.01.24\FontDialogtest\FontDialogtest\obj\Debug\FontDialogtest.csproj.AssemblyReference.cache
+D:\11v\24.01.24\FontDialogtest\FontDialogtest\obj\Debug\FontDialogtest.Form1.resources
+D:\11v\24.01.24\FontDialogtest\FontDialogtest\obj\Debug\FontDialogtest.Properties.Resources.resources
+D:\11v\24.01.24\FontDialogtest\FontDialogtest\obj\Debug\FontDialogtest.csproj.GenerateResource.cache
+D:\11v\24.01.24\FontDialogtest\FontDialogtest\obj\Debug\FontDialogtest.csproj.CoreCompileInputs.cache
+D:\11v\24.01.24\FontDialogtest\FontDialogtest\obj\Debug\FontDialogtest.exe
+D:\11v\24.01.24\FontDialogtest\FontDialogtest\obj\Debug\FontDialogtest.pdb
