@@ -1,0 +1,7 @@
+D:\11v\29.01.24\Rational(ZadachaOtDostaVreme)\Rational(ZadachaOtDostaVreme)\bin\Debug\Rational(ZadachaOtDostaVreme).exe.config
+D:\11v\29.01.24\Rational(ZadachaOtDostaVreme)\Rational(ZadachaOtDostaVreme)\bin\Debug\Rational(ZadachaOtDostaVreme).exe
+D:\11v\29.01.24\Rational(ZadachaOtDostaVreme)\Rational(ZadachaOtDostaVreme)\bin\Debug\Rational(ZadachaOtDostaVreme).pdb
+D:\11v\29.01.24\Rational(ZadachaOtDostaVreme)\Rational(ZadachaOtDostaVreme)\obj\Debug\Rational(ZadachaOtDostaVreme).csproj.AssemblyReference.cache
+D:\11v\29.01.24\Rational(ZadachaOtDostaVreme)\Rational(ZadachaOtDostaVreme)\obj\Debug\Rational(ZadachaOtDostaVreme).csproj.CoreCompileInputs.cache
+D:\11v\29.01.24\Rational(ZadachaOtDostaVreme)\Rational(ZadachaOtDostaVreme)\obj\Debug\Rational(ZadachaOtDostaVreme).exe
+D:\11v\29.01.24\Rational(ZadachaOtDostaVreme)\Rational(ZadachaOtDostaVreme)\obj\Debug\Rational(ZadachaOtDostaVreme).pdb
