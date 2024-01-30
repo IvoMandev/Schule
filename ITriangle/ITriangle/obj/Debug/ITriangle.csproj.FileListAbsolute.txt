@@ -1,0 +1,7 @@
+D:\11v\30.01.24\ITriangle\ITriangle\bin\Debug\ITriangle.exe.config
+D:\11v\30.01.24\ITriangle\ITriangle\bin\Debug\ITriangle.exe
+D:\11v\30.01.24\ITriangle\ITriangle\bin\Debug\ITriangle.pdb
+D:\11v\30.01.24\ITriangle\ITriangle\obj\Debug\ITriangle.csproj.AssemblyReference.cache
+D:\11v\30.01.24\ITriangle\ITriangle\obj\Debug\ITriangle.csproj.CoreCompileInputs.cache
+D:\11v\30.01.24\ITriangle\ITriangle\obj\Debug\ITriangle.exe
+D:\11v\30.01.24\ITriangle\ITriangle\obj\Debug\ITriangle.pdb
