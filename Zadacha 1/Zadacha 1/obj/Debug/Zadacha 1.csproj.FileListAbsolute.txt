@@ -1,0 +1,7 @@
+D:\11v\30.01.24\Zadacha 1\Zadacha 1\bin\Debug\Zadacha 1.exe.config
+D:\11v\30.01.24\Zadacha 1\Zadacha 1\bin\Debug\Zadacha 1.exe
+D:\11v\30.01.24\Zadacha 1\Zadacha 1\bin\Debug\Zadacha 1.pdb
+D:\11v\30.01.24\Zadacha 1\Zadacha 1\obj\Debug\Zadacha 1.csproj.AssemblyReference.cache
+D:\11v\30.01.24\Zadacha 1\Zadacha 1\obj\Debug\Zadacha 1.csproj.CoreCompileInputs.cache
+D:\11v\30.01.24\Zadacha 1\Zadacha 1\obj\Debug\Zadacha 1.exe
+D:\11v\30.01.24\Zadacha 1\Zadacha 1\obj\Debug\Zadacha 1.pdb
