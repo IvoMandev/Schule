@@ -1,0 +1,7 @@
+D:\11v\06.02.24\Zadacha2(abstractni klasove)\Zadacha2(abstractni klasove)\bin\Debug\Zadacha2(abstractni klasove).exe.config
+D:\11v\06.02.24\Zadacha2(abstractni klasove)\Zadacha2(abstractni klasove)\bin\Debug\Zadacha2(abstractni klasove).exe
+D:\11v\06.02.24\Zadacha2(abstractni klasove)\Zadacha2(abstractni klasove)\bin\Debug\Zadacha2(abstractni klasove).pdb
+D:\11v\06.02.24\Zadacha2(abstractni klasove)\Zadacha2(abstractni klasove)\obj\Debug\Zadacha2(abstractni klasove).csproj.AssemblyReference.cache
+D:\11v\06.02.24\Zadacha2(abstractni klasove)\Zadacha2(abstractni klasove)\obj\Debug\Zadacha2(abstractni klasove).csproj.CoreCompileInputs.cache
+D:\11v\06.02.24\Zadacha2(abstractni klasove)\Zadacha2(abstractni klasove)\obj\Debug\Zadacha2(abstractni klasove).exe
+D:\11v\06.02.24\Zadacha2(abstractni klasove)\Zadacha2(abstractni klasove)\obj\Debug\Zadacha2(abstractni klasove).pdb
