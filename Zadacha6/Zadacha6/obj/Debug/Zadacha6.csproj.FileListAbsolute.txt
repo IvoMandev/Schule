@@ -1,0 +1,6 @@
+D:\11v\19.02.24\Zadacha6\Zadacha6\bin\Debug\Zadacha6.exe.config
+D:\11v\19.02.24\Zadacha6\Zadacha6\bin\Debug\Zadacha6.exe
+D:\11v\19.02.24\Zadacha6\Zadacha6\bin\Debug\Zadacha6.pdb
+D:\11v\19.02.24\Zadacha6\Zadacha6\obj\Debug\Zadacha6.csproj.CoreCompileInputs.cache
+D:\11v\19.02.24\Zadacha6\Zadacha6\obj\Debug\Zadacha6.exe
+D:\11v\19.02.24\Zadacha6\Zadacha6\obj\Debug\Zadacha6.pdb
